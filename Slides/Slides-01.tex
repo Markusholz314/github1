@@ -392,7 +392,7 @@ E-Mail: \href{mailto:theoretical@ml.jku.at}{\tt theoretical@ml.jku.at}\\
 		\mathbf{w}^* = \underset{ \hat{\mathbf{w}}}{arg \ max} \ \mathcal{L}(\{\mathbf{x}\}; \hat{\mathbf{w}}) = \underset{\hat{\mathbf{w}}}{arg \ max}\prod_{i=1}^n p(\mathbf{x}^i ; \hat{\mathbf{w}})
 	\end{equation*}
 	
-	\textcolor{NavyBlue}{It is better to optimize a sum instead of a product: log trick!}
+	\textcolor{NavyBlue}{It is better to optimize a sum instead of a product: use log!}
 	\begin{equation*}
 		\mathbf{w}^* = \underset{ \hat{\mathbf{w}}}{arg \ max} \ log \ \mathcal{L}(\{\mathbf{x}\}; \hat{\mathbf{w}}) = \underset{\hat{\mathbf{w}}}{arg \ max}\sum_{i=1}^n log \ p(\mathbf{x}^i ; \hat{\mathbf{w}})
 	\end{equation*}

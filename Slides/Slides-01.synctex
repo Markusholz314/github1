@@ -1,5 +1,5 @@
 SyncTeX Version:1
-Input:1:C:/Users\amhan\Downloads\Theoretical Methods Exercise 1\Slides\Slides-01.tex
+Input:1:C:/Users\amhan\Documents\Theoretical Concepts Assignment 1\Slides\Slides-01.tex
 Input:2:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamer.cls
 Input:3:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\beamerbasemodes.sty
 Input:4:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
@@ -124,7 +124,7 @@ Input:122:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\font
 Input:123:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\color\beamercolorthemedefault.sty
 Input:124:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\inner\beamerinnerthemedefault.sty
 Input:125:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\outer\beamerouterthemedefault.sty
-Input:126:C:\Users\amhan\Downloads\Theoretical Methods Exercise 1\Slides\beamerthemejku.sty
+Input:126:C:\Users\amhan\Documents\Theoretical Concepts Assignment 1\Slides\beamerthemejku.sty
 Input:127:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.sty
 Input:128:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
 Input:129:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
@@ -215,8 +215,8 @@ Input:213:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang1.
 Input:214:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang2.sty
 Input:215:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstlang3.sty
 Input:216:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
-Input:217:C:\Users\amhan\Downloads\Theoretical Methods Exercise 1\Slides\beamercolorthemejku.sty
-Input:218:C:\Users\amhan\Downloads\Theoretical Methods Exercise 1\Slides\beamerfontthemejku.sty
+Input:217:C:\Users\amhan\Documents\Theoretical Concepts Assignment 1\Slides\beamercolorthemejku.sty
+Input:218:C:\Users\amhan\Documents\Theoretical Concepts Assignment 1\Slides\beamerfontthemejku.sty
 Input:219:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\font\beamerfontthemeprofessionalfonts.sty
 Input:220:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\themes\font\beamerfontthemeserif.sty
 Input:221:C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty
@@ -225,7 +225,7 @@ Input:223:C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty
 Input:224:C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def
 Input:225:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\helvet.sty
 Input:226:C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty
-Input:227:C:\Users\amhan\Downloads\Theoretical Methods Exercise 1\Slides\Slides-01.aux
+Input:227:C:\Users\amhan\Documents\Theoretical Concepts Assignment 1\Slides\Slides-01.aux
 Input:228:C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
 Input:229:C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1phv.fd
 Input:230:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
@@ -233,8 +233,8 @@ Input:231:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
 Input:232:C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
 Input:233:C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 Input:234:C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
-Input:235:C:\Users\amhan\Downloads\Theoretical Methods Exercise 1\Slides\Slides-01.out
-Input:236:C:\Users\amhan\Downloads\Theoretical Methods Exercise 1\Slides\Slides-01.out
+Input:235:C:\Users\amhan\Documents\Theoretical Concepts Assignment 1\Slides\Slides-01.out
+Input:236:C:\Users\amhan\Documents\Theoretical Concepts Assignment 1\Slides\Slides-01.out
 Input:237:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\translator-basic-dictionary\translator-basic-dictionary-English.dict
 Input:238:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\translator-bibliography-dictionary\translator-bibliography-dictionary-English.dict
 Input:239:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\translator-environment-dictionary\translator-environment-dictionary-English.dict
@@ -242,14 +242,14 @@ Input:240:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\
 Input:241:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\translator-numbers-dictionary\translator-numbers-dictionary-English.dict
 Input:242:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\translator\dicts\translator-theorem-dictionary\translator-theorem-dictionary-English.dict
 Input:243:C:\Users\amhan\AppData\Roaming\MiKTeX\2.9\tex\latex\fmtcount\fc-english.def
-Input:244:C:\Users\amhan\Downloads\Theoretical Methods Exercise 1\Slides\Slides-01.nav
+Input:244:C:\Users\amhan\Documents\Theoretical Concepts Assignment 1\Slides\Slides-01.nav
 Output:pdf
 Magnification:1000
 Unit:1
 X Offset:0
 Y Offset:0
 Content:
-!22819
+!22843
 {1
 [1,46:4736286,17900937:17266942,13164651,0
 h1,46:4736286,4736286:0,0,0
@@ -8450,13 +8450,11 @@ x1,399:11269216,9279498
 g1,399:11414963,9279498
 x1,399:13309191,9279498
 g1,399:13489536,9279498
-x1,399:14188928,9279498
-g1,399:14334675,9279498
-x1,399:14655008,9279498
-x1,399:15041401,9279498
-x1,399:15438809,9279498
-k1,399:18721019,9279498:3282210
-k1,399:22003228,9279498:3282209
+x1,399:14334682,9279498
+g1,399:14480429,9279498
+x1,399:15325568,9279498
+k1,399:18664398,9279498:3338830
+k1,399:22003228,9279498:3338830
 )
 (1,399:5071927,11072782:13724054,890199,701797
 x1,399:5535780,11072782
@@ -8664,11 +8662,11 @@ k1,399:22003228,17900937:1731738
 ]
 ]
 ]
-!10792
+!10744
 }13
-Input:250:C:\Users\amhan\Downloads\Theoretical Methods Exercise 1\Slides\Slides-01.aux
-!98
+Input:250:C:\Users\amhan\Documents\Theoretical Concepts Assignment 1\Slides\Slides-01.aux
+!101
 Postamble:
 Count:6630
-!26
+!27
 Post scriptum:
